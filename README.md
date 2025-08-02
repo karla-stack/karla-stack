@@ -35,8 +35,6 @@ I'm a passionate software development student crafting digital experiences one l
 
 I believe great software combines **technical excellence** with **creative vision**. Every project is an opportunity to push boundaries, solve real problems, and create something that makes a difference.
 
-*Code is my canvas, logic is my brush, and user experience is my masterpiece.*
-
 ---
 
 **Ready to collaborate? Let's build something extraordinary together!**
