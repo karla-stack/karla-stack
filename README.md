@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-**Digital Craftsman (Developer/Student/Creator)**
+**Developer/Student/Creator**
 
 I'm a passionate software development student crafting digital experiences one line of code at a time. I build projects from concept to completion, combining technical skills with creative problem-solving to create meaningful web applications.
 
