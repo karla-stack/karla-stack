@@ -40,11 +40,11 @@ I'm a passionate backend development student focused on building robust, scalabl
 
 ## Backend Skills & Progress
 
-**✅ Core Expertise:** MVC & Onion Architecture • ASP.NET Identity & JWT • Web API Development • Entity Framework Code First • SQL Database Design • Chart.js Integration
+**Core Expertise:** MVC & Onion Architecture • ASP.NET Identity & JWT • Web API Development • Entity Framework Code First • SQL Database Design • Chart.js Integration
 
-**🎯 Currently Expanding:** Advanced C# Patterns • Clean Architecture • API Security • Unit Testing • Performance Optimization • Docker & CI/CD
+**Currently Expanding:** Advanced C# Patterns • Clean Architecture • API Security • Unit Testing • Performance Optimization • Docker & CI/CD
 
-**🚀 Next Goals:** Microservices • Message Queuing • Cloud Deployment • Monitoring & Observability
+**Next Goals:** Microservices • Message Queuing • Cloud Deployment • Monitoring & Observability
 
 ---
 
