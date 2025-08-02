@@ -12,57 +12,29 @@ I'm a passionate backend development student focused on building robust, scalabl
 
 ## Backend Tech Stack
 
-### Backend Technologies & Frameworks
+## Tech Stack
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Development Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Additional Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ---
 
-## Backend Mastery Progress
+## Backend Skills & Progress
 
-### ✅ **Core Skills Mastered**
-- **MVC & Onion Architecture** - Clean separation of concerns and maintainable code structure
-- **ASP.NET Identity & JWT Authentication** - Secure user authentication and authorization systems
-- **Web API Development** - RESTful API design and implementation with .NET
-- **Entity Framework Code First** - Database modeling and migrations
-- **SQL Database Design** - Relational database architecture and optimization
-- **Data Visualization** - Chart.js integration for dynamic data presentation
+**✅ Core Expertise:** MVC & Onion Architecture • ASP.NET Identity & JWT • Web API Development • Entity Framework Code First • SQL Database Design • Chart.js Integration
 
-### 🎯 **Currently Learning & Expanding**
-- **Advanced C# Features** - LINQ optimization, async/await patterns, delegates
-- **Clean Architecture Patterns** - CQRS, Repository pattern, Dependency Injection
-- **API Security** - OAuth2, OpenID Connect, CORS implementation  
-- **Testing Strategies** - Unit testing with xUnit, integration testing, mocking
-- **Performance Optimization** - Caching strategies, query optimization, profiling
-- **DevOps Integration** - Docker containerization, CI/CD pipelines
+**🎯 Currently Expanding:** Advanced C# Patterns • Clean Architecture • API Security • Unit Testing • Performance Optimization • Docker & CI/CD
 
-### 🚀 **Next Level Goals**
-- **Microservices Architecture** - Distributed systems and service communication
-- **Message Queuing** - RabbitMQ, Azure Service Bus for async processing
-- **Advanced Database** - NoSQL integration, database performance tuning
-- **Cloud Deployment** - Azure/AWS deployment and scaling strategies
-- **Monitoring & Observability** - Application Insights, logging frameworks
+**🚀 Next Goals:** Microservices • Message Queuing • Cloud Deployment • Monitoring & Observability
 
 ---
 
