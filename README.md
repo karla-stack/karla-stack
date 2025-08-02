@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello World! I'm Karla Michelle
 
-<!--
-**karla-stack/karla-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+-  Software Development Student with a passion for coding
+-  Building dynamic and interactive web applications
+-  Always eager to learn new technologies and improve my skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+```javascript
+const karla = {
+    languages: ["JavaScript", "C#", "SQL"],
+    frontend: ["HTML", "CSS", "GSAP"],
+    currentFocus: "Full-Stack Development",
+    learning: "Always something new!"
+}
