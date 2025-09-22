@@ -10,7 +10,7 @@ I'm a passionate backend development student focused on building robust, scalabl
 
 ---
 
-## Backend Tech Stack
+## FullStack Tech Stack
 
 ### Backend Technologies & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
